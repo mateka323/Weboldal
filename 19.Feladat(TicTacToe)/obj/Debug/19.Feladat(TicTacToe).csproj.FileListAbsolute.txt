@@ -1,0 +1,11 @@
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\bin\Debug\19.Feladat(TicTacToe).exe.config
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\bin\Debug\19.Feladat(TicTacToe).exe
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\bin\Debug\19.Feladat(TicTacToe).pdb
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\obj\Debug\19.Feladat(TicTacToe).csproj.AssemblyReference.cache
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\obj\Debug\_19.Feladat_TicTacToe_.Form1.resources
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\obj\Debug\_19.Feladat_TicTacToe_.Properties.Resources.resources
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\obj\Debug\19.Feladat(TicTacToe).csproj.GenerateResource.cache
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\obj\Debug\19.Feladat(TicTacToe).csproj.CoreCompileInputs.cache
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\obj\Debug\19.Feladat(TicTacToe).exe
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\obj\Debug\19.Feladat(TicTacToe).pdb
+C:\Users\matek\Desktop\Suli\PR3\9.Óra\19.Feladat(TicTacToe)\19.Feladat(TicTacToe)\obj\Debug\19.Feladat(TicTacToe).exe.config
